@@ -7,5 +7,5 @@ Major depressive disorder (MDD) is a prevalent mental disorder that seriously th
 
 # Dataset
 In this work, The proposed model was comprehensively evaluated using both a private dataset and an open-access dataset.The dataset can be found at the following link: 
-1. a private dataset: https://drive.google.com/drive/folders/1bVTjJMWI6IRAYurPGiaUDTntwMfJN8Mm?usp=sharing
+1. a private dataset: XXX
 2. an opne-access dataset: https://rfmri.org/REST-meta-MDD
