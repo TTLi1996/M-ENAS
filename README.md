@@ -1,5 +1,6 @@
 # M-ENAS: Evolutionary neural architecture search for the automatic diagnosis of MDD using multi-modal MRI imaging
 This repository contains the code and data for the paper "M-ENAS: Evolutionary neural architecture search for the automatic diagnosis of MDD using multi-modal MRI imaging". The project explores the integration of multimodal MRI data (sMRI, DTI, fMRI) using a novel neural architecture search method to improve diagnostic performance for MDD.
+
 ![Image](https://github.com/TTLi1996/M-ENAS/blob/main/M-ENAS.jpg)
 
 # Summary
@@ -9,3 +10,6 @@ Major depressive disorder (MDD) is a prevalent mental disorder that seriously th
 In this work, The proposed model was comprehensively evaluated using both a private dataset and an open-access dataset.The dataset can be found at the following link: 
 1. a private dataset: XXX
 2. an opne-access dataset: https://rfmri.org/REST-meta-MDD
+
+# Requirements
+The experiments related to this study were compiled using PyTorch-1.13 and executed on an NVIDIA A100 GPU, running on Ubuntu 20.04.
