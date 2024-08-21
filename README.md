@@ -9,7 +9,7 @@ This repository contains the code and data for the paper "M-ENAS: Evolutionary n
 
 ·	The M-ENAS method effectively extracts and fuses multimodal neuroimaging features.
 
-·	M-ENAS achieves competitive performance on a private and an open-access dataset.
+·	Applications on two datasets unanimously demonstrated the effectiveness of M-ENAS.
 
 ·	Our findings show that somatomotor network regions are crucial in MDD diagnosis.
 
